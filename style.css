@@ -1,6 +1,11 @@
 body,
 html{
+  background:linear-gradient(to right, rgb(76, 98, 103), rgb(79, 76, 69))
 
+}
+
+.fondo{
+   background:linear-gradient(to right, rgb(76, 98, 103), rgb(79, 76, 69))
 }
 
 .column {
